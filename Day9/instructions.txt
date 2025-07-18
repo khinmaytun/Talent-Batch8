@@ -1,0 +1,16 @@
+-------- Fonts --------------
+logo => Dancing Script
+heading => Lato
+text => Poppins
+
+-------- Color --------------
+black: #212121;
+white: #fff;
+orange: #ff9933;
+gray: #ddd;
+blue: #00f;
+red: #f00;
+
+-------- Layout (Width) --------------
+Sidebar => 20%
+Content => 100%
